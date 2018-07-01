@@ -36,4 +36,5 @@ void Imprime (apontador p);
 void altura(apontador p);
 void alturah(apontador p, int h);
 void imprime_altura(int h);
+void acesso_a_disco(int cont );
 #endif // ARVOREB_H_INCLUDED

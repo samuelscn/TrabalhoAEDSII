@@ -13,6 +13,7 @@ int Pesquisa(reg registro,apontador no)
 {
     int i = 1;
 
+
     if(no == NULL)
     {
         printf("Registro nao encontrado");
@@ -290,16 +291,18 @@ void Printar (apontador ap,int nivel)
     int i;
     if(ap == NULL)
         return;
-    printf("Nivel : %d\n",nivel);
+    printf("Nivel  %d :\n",nivel);
     for(i=0;i< ap->n;i++)
     {
         printf("Chave: %d\n",ap->registros[i].chave);
-        nivel ++;
+
     }
+    nivel++;
     for(i=0;i<=ap->n;i++)
     {
         Printar(ap->p[i],nivel);
     }
+
 }
 
 void Imprime (apontador p)
@@ -317,11 +320,19 @@ void altura(apontador p)
 
 void alturah(apontador p, int h)
 {
+    //printf("Altura: h : %d\n",h);
     //printf(" altura : %d\n",h);
     int i =0;
     if( p == NULL)
+        imprime_altura(h);
         return;
+
+    h++;
     for(i=0;i<=p->n;i++)
+    {
+        alturah(p->p[i],h);
+    }
+    /*for(i=0;i<=p->n;i++)
     {
         h++;
         alturah(p->p[i],h);
@@ -330,7 +341,7 @@ void alturah(apontador p, int h)
     {
         imprime_altura(h);
 
-    }
+    } */
 
    // printf("Altura da arvore %d \n",h);
     //h++;
@@ -347,3 +358,4 @@ void imprime_altura(int h)
 {
     printf("Altura da arvore : %d\n",h);
 }
+

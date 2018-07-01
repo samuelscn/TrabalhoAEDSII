@@ -17,17 +17,33 @@ int main()
     Insere(teste,&arvore);
     teste.chave = 20;
     Insere(teste,&arvore);
-    teste.chave = 15;
+    teste.chave = 105;
     Insere(teste,&arvore);
-    teste.chave = 25;
+teste.chave = 25;
     Insere(teste,&arvore);
     teste.chave = 1;
     Insere(teste,&arvore);
-    for(i=0;i<2;i++)
-    {
-        printf("%d\n",arvore->registros[i].chave);
+    teste.chave = 17;
+    Insere(teste,&arvore);
+    teste.chave= 18 ;
+    Insere(teste,&arvore);
+    teste.chave = 29;
+    Insere(teste,&arvore);
+    teste.chave = 11;
+    Insere(teste,&arvore);
+    teste.chave = 12;
+    Insere(teste,&arvore);
+    teste.chave= 180 ;
+    Insere(teste,&arvore);
+    teste.chave = 251;
+    Insere(teste,&arvore);
+    teste.chave = 19;
+    Insere(teste,&arvore);
+    teste.chave = 172;
+    Insere(teste,&arvore);
+    teste.chave= 2 ;
+    Insere(teste,&arvore);
 
-    }
 
     //Retira(10,&arvore);
     Imprime(arvore);
