@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530764925 source:c:\users\cliente\desktop\tentativa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tentativa.h"
+
+1530764742 source:c:\users\cliente\desktop\tentativa\tentativa.c
+	"tentativa.h"
+
+1530764747 c:\users\cliente\desktop\tentativa\tentativa.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
