@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530753378 source:c:\users\cliente\desktop\praticaiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"praticaIV.h"
+
+1530753458 source:c:\users\cliente\desktop\praticaiv\praticaiv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"praticaIV.h"
+
+1530752051 c:\users\cliente\desktop\praticaiv\praticaiv.h
+
