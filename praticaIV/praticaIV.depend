@@ -1,19 +1,20 @@
 # depslib dependency file v1.0
-1530798127 source:c:\users\qbex\desktop\praticaiv\praticaiv.c
+1530801609 source:c:\users\qbex\desktop\praticaiv\praticaiv.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"praticaIV.h"
 
-1530797521 c:\users\qbex\desktop\praticaiv\praticaiv.h
+1530801000 c:\users\qbex\desktop\praticaiv\praticaiv.h
 	<stdio.h>
 	<string.h>
 	<conio.h>
 	<stdlib.h>
 
-1530780371 source:c:\users\qbex\desktop\praticaiv\main.c
+1530800999 source:c:\users\qbex\desktop\praticaiv\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+	<conio.h>
 	"praticaIV.h"
 

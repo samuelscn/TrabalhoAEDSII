@@ -6,8 +6,12 @@
 
 int main()
 {
+    node* ptr, * head;
+    int j, n, total = 0, u, c[15];
+    char str[24];
+    node* a[12];
+    int freq;
     Armazena_palavra *h;
-
     Inicia_vPalavra(&h);
     Insere_palavra("para", &h);
     Insere_palavra("cada", &h);
@@ -19,22 +23,21 @@ int main()
     Insere_palavra("uma", &h);
     Insere_palavra("rosa", &h);
     OrdenaVET(&h);
-
-
-            node* ptr, * head;
-            int i, n, total = 0, u, c[15];
-            char str[24];
-            node* a[12];
-            int freq;
-            printf(  "Huffman Algorithm\n");
-            printf("\nEnter the no. of letter to be coded:");/*input
-the no. of letters*/
-            scanf("%d", &n);
-            for (i = 0; i < n; i++)
+    Imprime(&h);
+    printf(  "Huffman Algorithm\n\n\n\n\n");
+    //Imprime(&h);
+    printf("\nEnter the no. of letter to be coded:");/*input the no. of letters*/
+    printf("ANTES DO FOR");
+    //Imprime(&h);
+    scanf("%d", &n);
+        for (j = 0; j < n; j++)
             {
-                strcpy(str, h->Vet_palavra[i].p);
-                freq= h->Vet_palavra[i].peso;
-                        a[i] = create(str, freq);
+                Imprime(&h);
+                //strcpy(str, h->Vet_palavra[j].p);
+                //freq= h->Vet_palavra[j].peso;
+                printf("%s", str);
+                printf("%d", freq);
+                a[j] = create(str, freq);
             }
             while (n > 1)
             {

@@ -20,10 +20,6 @@ void Insere_palavra(char *vai, Armazena_palavra *pPalavra);
 void OrdenaVET(Armazena_palavra *pPalavra);
 void Imprime(Armazena_palavra *pPalavra);
 
-
-
-
-
 struct link
 {
     int freq;

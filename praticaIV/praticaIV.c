@@ -37,6 +37,7 @@ void Imprime(Armazena_palavra *pPalavra){
         if(strcmp(pPalavra->Vet_palavra[i].p, "\0") == 0){
             break;
         }else{
+            //printf("%d indice\n", i);
             printf("%s\n", pPalavra->Vet_palavra[i].p);
             printf("%d\n", pPalavra->Vet_palavra[i].peso);
         }
