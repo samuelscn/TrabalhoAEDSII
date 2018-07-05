@@ -61,41 +61,48 @@ void OrdenaVET(Armazena_palavra *pPalavra){
     }
 }
 
-no* create(char a[40], int x)
+
+
+
+
+node* create(char a[], int x)
+
 {
-    printf("KJHG");
-            no* ptr;
-            ptr = (no *) malloc(sizeof(no));
-            ptr->peso = x;
-            strcpy( ptr->palavra , a);
-            ptr->direita = ptr->esquerda = NULL;
+            node* ptr;
+            ptr = (node *) malloc(sizeof(node));
+            ptr->freq = x;
+            strcpy( ptr->ch , a);
+            ptr->right = ptr->left = NULL;
             return(ptr);
 }
-void ordena(no* a[], int n)
+
+void sort(node* a[], int n)
 {
             int i, j;
-            no* temp;
+            node* temp;
             for (i = 0; i < n - 1; i++)
                         for (j = i; j < n; j++)
-                                    if (a[i]->peso > a[j]->peso)
+                                    if (a[i]->freq > a[j]->freq)
                                     {
                                                 temp = a[i];
                                                 a[i] = a[j];
                                                 a[j] = temp;
                                     }
 }
-void sdireita(no* a[], int n)
+
+void sright(node* a[], int n)
 {
             int i;
             for (i = 1; i < n - 1; i++)
                         a[i] = a[i + 1];
 }
-void Assign_Code(no* tree, int c[], int n)
+
+void Assign_Code(node* tree, int c[], int n)
 {
             int i;
-            if ((tree->esquerda == NULL) && (tree->direita == NULL))
+            if ((tree->left == NULL) && (tree->right == NULL))
             {
-                        printf("%s code:", tree->palavra);
+                        printf("%s code:", tree->ch);
                         for (i = 0; i < n; i++)
                          {
                           printf("%d", c[i]);
@@ -106,18 +113,18 @@ void Assign_Code(no* tree, int c[], int n)
             {
                         c[n] = 1;
                         n++;
-                        Assign_Code(tree->esquerda, c, n);
+                        Assign_Code(tree->left, c, n);
                         c[n - 1] = 0;
-                        Assign_Code(tree->direita, c, n);
+                        Assign_Code(tree->right, c, n);
             }
 }
-void Delete_Tree(no * root)
+
+void Delete_Tree(node * root)
 {
     if(root!=NULL)
     {
-            Delete_Tree(root->esquerda);
-            Delete_Tree(root->direita);
+            Delete_Tree(root->left);
+            Delete_Tree(root->right);
             free(root);
     }
-
 }
