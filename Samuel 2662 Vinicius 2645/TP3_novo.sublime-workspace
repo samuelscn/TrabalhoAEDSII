@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TAD",
+				"TAD_celula"
+			],
+			[
+				"ma",
+				"matricula"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"num",
+				"num2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Palavras.h",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Palavras.c",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_NumeroLinhas.h",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_NumeroLinhas.c",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Lista_Palavras.h",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Lista_Palavras.c",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Letra_Alfabeto.h",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/main.c",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Dicionario.c",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Letra_Alfabeto.c",
+		"/C/Users/vinícius/Desktop/Samuel 2662 Vinicius 2645/TAD_Dicionario.h",
+		"/C/Users/vinícius/Downloads/TP2_Natal.exe",
+		"/C/Users/vinícius/Desktop/algoritmos em C/Tadestudo/main.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/Tadestudo/tadestudo.sublime-project",
+		"/C/Users/vinícius/Desktop/algoritmos em C/tadbanco/Contabancaria.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/tadbanco/Contabancaria.h",
+		"/C/Users/vinícius/Desktop/algoritmos em C/tadbanco/main.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/tadbanco/tadbanco.sublime-project",
+		"/C/Users/vinícius/Desktop/algoritmos em C/tadbanco/tadbanco.cbp",
+		"/C/Users/vinícius/Desktop/TAD Aluno22/aluno.h",
+		"/C/Users/vinícius/Desktop/TAD Aluno22/aluno.c",
+		"/C/Users/vinícius/Desktop/TAD Aluno22/main.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/TAD Aluno/aluno.h",
+		"/C/Users/vinícius/Desktop/TAD Aluno/aluno.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/TAD Aluno/main.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/TAD Aluno/aluno.c",
+		"/C/Users/vinícius/Downloads/TAD-Aluno.zip",
+		"/C/Users/vinícius/Desktop/algoritmos em C/TADLISTA/tad.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/TADLISTA/lista.h",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/js/creative.min.js",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/vendor/scrollreveal/scrollreveal.min.js",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/vendor/scrollreveal/scrollreveal.js",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/vendor/bootstrap/js/bootstrap.min.js",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/index.html",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/js/creative.js",
+		"/C/Users/vinícius/Desktop/Site ENGAJ/css/creative.min.css",
+		"/C/xampp/htdocs/uaihome/www/login.php",
+		"/C/Users/vinícius/Desktop/algoritmos em C/teste4.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/teste3.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/ola mundo.c",
+		"/C/Users/vinícius/Desktop/algoritmos em C/teste2.c",
+		"/C/Users/vinícius/Desktop/doom3.gpl-master/neo/game/ai/AAS.cpp",
+		"/C/Users/vinícius/Desktop/doom3.gpl-master/.gitignore",
+		"/C/Users/vinícius/Desktop/doom3.gpl-master/neo/game/Actor.cpp",
+		"/C/Users/vinícius/Desktop/doom3.gpl-master/base/default.cfg",
+		"/C/Users/vinícius/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/Users/vinícius/Desktop/faculdade/Programação/algoritmos em C/teste.c",
+		"/C/Users/vinícius/AppData/Roaming/Sublime Text 3/Packages/User/.runC.sh",
+		"/C/xampp/htdocs/uaihome/www/css/ajuda.css",
+		"/C/xampp/htdocs/uaihome/www/perfil-rep.php",
+		"/D/uaihome/www/perfil-rep.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/D/uaihome/www/teste03.php",
+		"/D/uaihome/www/procurarteste.php",
+		"/D/uaihome/www/perfil-user.php",
+		"/D/uaihome/www/img/logo-1360x1024.png",
+		"/D/uaihome/www/img/logo-1024x1024.png",
+		"/D/uaihome/www/img/bug-170x200.png",
+		"/C/Users/vinícius/Desktop/aprendendo.html",
+		"/C/Users/vinícius/Desktop/algoritmos em C/teste1.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "TP3_novo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

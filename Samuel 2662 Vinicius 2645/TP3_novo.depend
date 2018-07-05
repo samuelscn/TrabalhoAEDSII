@@ -1,0 +1,364 @@
+# depslib dependency file v1.0
+1512365618 source:c:\users\samuel\desktop\tp3_novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512315596 c:\users\samuel\desktop\tp3_novo\tad_numerolinhas.h
+
+1512337755 source:c:\users\samuel\desktop\tp3_novo\tad_numerolinhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+
+1512318453 c:\users\samuel\desktop\tp3_novo\tad_palavras.h
+	"TAD_NumeroLinhas.h"
+
+1512318445 source:c:\users\samuel\desktop\tp3_novo\tad_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512365380 c:\users\samuel\desktop\tp3_novo\tad_lista_palavras.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512365618 source:c:\users\samuel\desktop\tp3_novo\tad_lista_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512333695 source:c:\users\samuel\desktop\tp3_novo\tad_letra_alfabeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512334816 c:\users\samuel\desktop\tp3_novo\tad_letra_alfabeto.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512362021 source:c:\users\samuel\desktop\tp3_novo\tad_dicionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512360467 c:\users\samuel\desktop\tp3_novo\tad_dicionario.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512365618 source:c:\users\vinícius\desktop\tp3_novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512315596 c:\users\vinícius\desktop\tp3_novo\tad_numerolinhas.h
+
+1512318453 c:\users\vinícius\desktop\tp3_novo\tad_palavras.h
+	"TAD_NumeroLinhas.h"
+
+1512365380 c:\users\vinícius\desktop\tp3_novo\tad_lista_palavras.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512334816 c:\users\vinícius\desktop\tp3_novo\tad_letra_alfabeto.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512360467 c:\users\vinícius\desktop\tp3_novo\tad_dicionario.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512419024 source:c:\users\vinícius\desktop\tp3_novo\tad_dicionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512333695 source:c:\users\vinícius\desktop\tp3_novo\tad_letra_alfabeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512425983 source:c:\users\vinícius\desktop\tp3_novo\tad_lista_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512337755 source:c:\users\vinícius\desktop\tp3_novo\tad_numerolinhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+
+1512318445 source:c:\users\vinícius\desktop\tp3_novo\tad_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512365618 source:c:\users\samuel\downloads\tp3_novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512315596 c:\users\samuel\downloads\tp3_novo\tad_numerolinhas.h
+
+1512318453 c:\users\samuel\downloads\tp3_novo\tad_palavras.h
+	"TAD_NumeroLinhas.h"
+
+1512439250 c:\users\samuel\downloads\tp3_novo\tad_lista_palavras.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512334816 c:\users\samuel\downloads\tp3_novo\tad_letra_alfabeto.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512439656 c:\users\samuel\downloads\tp3_novo\tad_dicionario.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512440175 source:c:\users\samuel\downloads\tp3_novo\tad_dicionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512333695 source:c:\users\samuel\downloads\tp3_novo\tad_letra_alfabeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512439306 source:c:\users\samuel\downloads\tp3_novo\tad_lista_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512337755 source:c:\users\samuel\downloads\tp3_novo\tad_numerolinhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+
+1512318445 source:c:\users\samuel\downloads\tp3_novo\tad_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512448792 source:c:\users\vinícius\desktop\tp3_novo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512475596 c:\users\vinícius\desktop\tp3_novo2\tad_numerolinhas.h
+
+1512475596 c:\users\vinícius\desktop\tp3_novo2\tad_palavras.h
+	"TAD_NumeroLinhas.h"
+
+1512475596 c:\users\vinícius\desktop\tp3_novo2\tad_lista_palavras.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512475596 c:\users\vinícius\desktop\tp3_novo2\tad_letra_alfabeto.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512476762 c:\users\vinícius\desktop\tp3_novo2\tad_dicionario.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512476762 source:c:\users\vinícius\desktop\tp3_novo2\tad_dicionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512473356 source:c:\users\vinícius\desktop\tp3_novo2\tad_letra_alfabeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512475596 source:c:\users\vinícius\desktop\tp3_novo2\tad_lista_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512448792 source:c:\users\vinícius\desktop\tp3_novo2\tad_numerolinhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+
+1512475596 source:c:\users\vinícius\desktop\tp3_novo2\tad_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512448792 source:d:\tp3_novo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512475596 d:\tp3_novo2\tad_numerolinhas.h
+
+1512475596 d:\tp3_novo2\tad_palavras.h
+	"TAD_NumeroLinhas.h"
+
+1512480153 d:\tp3_novo2\tad_lista_palavras.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512475596 d:\tp3_novo2\tad_letra_alfabeto.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
+1512476762 d:\tp3_novo2\tad_dicionario.h
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512480865 source:d:\tp3_novo2\tad_dicionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+	"TAD_Dicionario.h"
+
+1512473356 source:d:\tp3_novo2\tad_letra_alfabeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+	"TAD_Letra_Alfabeto.h"
+
+1512448792 source:d:\tp3_novo2\tad_numerolinhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+
+1512475596 source:d:\tp3_novo2\tad_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+
+1512480648 source:d:\tp3_novo2\tad_lista_palavras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TAD_NumeroLinhas.h"
+	"TAD_Palavras.h"
+	"TAD_Lista_Palavras.h"
+
